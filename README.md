@@ -1,6 +1,4 @@
-# Android jetpack App Shortcut Example
-
-# Simple App Shortcuts in Kotlin (Jetpack Compose)
+# Android App Shortcuts in Kotlin (Jetpack Compose)
 
 ## Overview
 
